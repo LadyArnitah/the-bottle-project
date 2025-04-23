@@ -28,7 +28,7 @@ A mockup diagram of this phase is in the repo: `Human_Trafficking_Mitigation_S.p
 - LLaMA, Mistral (local LLMs)
 - HTML/CSS (for UI flow)
 - Internet of Things (IoT) Devices
-- - Data Security & Privacy Technologies
+- Data Security & Privacy Technologies
 
 ## 🤝 Call to Collaborate
 This is an open project. Join me in building a smarter, more compassionate response to trafficking.
